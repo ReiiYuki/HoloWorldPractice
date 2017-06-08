@@ -7,7 +7,7 @@
 # Default behavior is to never overwrite files
 Origami.sln: AE640E9555DE16B19581CAB95DD2E48E
 Origami\App.cs: 840E91E0EB643ED8B47F120976B0BFC3
-Origami\Origami.csproj: 7D395AA677A7920F5EB04FDB3A32C8E6
+Origami\Origami.csproj: C7AD94442E9A588A41C386D256BD1266
 Origami\Origami.csproj.user: modified
 Origami\Package.appxmanifest: 1C9D220D583D48E7D968580BE26BF6DE
 Origami\project.json: 1D02BC64BAC0D041019673A1C4C51737
