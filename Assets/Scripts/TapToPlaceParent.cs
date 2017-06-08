@@ -1,7 +1,9 @@
 ﻿using UnityEngine;
+
 public class TapToPlaceParent : MonoBehaviour
 {
     bool placing = false;
+
     // Called by GazeGestureManager when the user performs a Select gesture
     void OnSelect()
     {
@@ -23,10 +25,17 @@ public class TapToPlaceParent : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        // If the user is in placing mode,
-        // update the placement to match the user's gaze.
+        
+    /*    if (Physics.Raycast(headPosition, gazeDirection, out hitInfo,
+               30.0f, SpatialMapping.PhysicsRaycastMask))
+        {
+            Debug.Log("FOund but not select "+hitInfo.point);
+        }*/
 
-        if (placing)
+            // If the user is in placing mode,
+            // update the placement to match the user's gaze.
+
+            if (placing)
         {
             // Do a raycast into the world that will only hit the Spatial Mapping mesh.
             var headPosition = Camera.main.transform.position;
