@@ -207,3 +207,4 @@ C:\Users\yukir\Documents\HoloWorldPractice\Result\Origami\obj\ARM\Debug\qualifie
 C:\Users\yukir\Documents\HoloWorldPractice\Result\Origami\obj\ARM\Debug\qualifiers.txt.intermediate
 C:\Users\yukir\Documents\HoloWorldPractice\Result\Origami\obj\ARM\Debug\MultipleQualifiersPerDimensionFound.txt
 C:\Users\yukir\Documents\HoloWorldPractice\Result\Origami\obj\ARM\Debug\ProjectArchitectures.txt
+C:\Users\yukir\Documents\HoloWorldPractice\Result\Origami\obj\ARM\Debug\Origami.csprojResolveAssemblyReference.cache
