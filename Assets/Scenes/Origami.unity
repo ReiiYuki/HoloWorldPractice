@@ -250,7 +250,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   underworld: {fileID: 2104874295}
   objectToHide: {fileID: 470350460}
---- !u!114 &470350462
+--- !u!114 &470350464
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 0}
@@ -763,6 +763,10 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 11402658, guid: 29876ca09b6f9c7408d6fe96eed99747, type: 2}
       propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 101904, guid: 29876ca09b6f9c7408d6fe96eed99747, type: 2}
+      propertyPath: m_IsActive
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
